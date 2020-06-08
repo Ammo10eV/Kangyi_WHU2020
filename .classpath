@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/NetSfJsonjar/NetSfJsonjar/net.sf.json jar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/NetSfJsonjar/NetSfJsonjar/net.sf.json jar/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/NetSfJsonjar/NetSfJsonjar/net.sf.json jar/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/NetSfJsonjar/NetSfJsonjar/net.sf.json jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/NetSfJsonjar/NetSfJsonjar/net.sf.json jar/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/NetSfJsonjar/NetSfJsonjar/net.sf.json jar/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="Y:/迅雷下载/pconline1495545182393/fastjson-1.2.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
